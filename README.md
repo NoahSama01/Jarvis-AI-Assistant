@@ -1,4 +1,4 @@
-# 🤖 Jarvis AI Assistant
+### 🤖 Jarvis AI Assistant
 
 Jarvis is a Python-based personal AI assistant that can recognize voice commands, perform tasks like playing music, and interact with you conversationally. Inspired by Tony Stark's Jarvis, this project brings a simple smart assistant experience to your desktop.
 
@@ -19,12 +19,8 @@ Jarvis is a Python-based personal AI assistant that can recognize voice commands
 
 Jarvis/
 ├── client.py # Voice input/output handling
-├── main.py # Core logic for processing commands
+├── jarvis.py # Core logic for processing commands
 └── music_lib.py # Functions to manage local music playback
-
-yaml
-Copy
-Edit
 
 ---
 
