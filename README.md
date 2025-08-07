@@ -9,8 +9,7 @@ Jarvis is a Python-based personal AI assistant that can recognize voice commands
 ✅ Voice command recognition  
 ✅ Play music from local library  
 ✅ Modular Python architecture  
-✅ Easy to extend with new skills  
-✅ Cool front-end dashboard (HTML/CSS)  
+✅ Easy to extend with new skills 
 ✅ Runs entirely offline (no cloud dependency)
 
 ---
