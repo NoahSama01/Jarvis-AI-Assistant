@@ -36,9 +36,6 @@ pip install -r requirements.txt
 🏃 Usage
 Run the main script:
 
-bash
-Copy
-Edit
 python main.py
 Speak your commands (e.g., "Play my music", "Hello Jarvis"), and watch Jarvis respond.
 
