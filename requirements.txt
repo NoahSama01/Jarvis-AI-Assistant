@@ -1,0 +1,5 @@
+elevenlabs #Optional
+SpeechRecognition
+pyaudio
+pyttsx3
+openai
